@@ -1,0 +1,30 @@
+dig             # for checking DNS name servers
+du              # disk usage
+df              # check disk storage
+ifconfig        # shows network connections
+iwconfig        # shows wireless network connections                    
+iwconfig wlan0  # shows wlan0 settings
+nm-tool         # more network info
+factor          # factors the entered number
+/var/log        # where logs are stored
+locale          # locale information on language settings
+xdg-open        # "double-click"
+sudo systemctl restart ssh      # restart SSH
+!!              # re-run the last command
+top             # shows Linux processes
+pstree          # shows process tree
+ps -l              # snapshot of current processes
+apt-cache policy "program"   # check if a program is installed
+&               # add an '&' after a command to start a process in the background
+fg              # brings a background process to the foreground
+jobs            # list of suspended processes
+Ctrl-z          # detach job from current shell
+strace          # traces system calls
+|& more         # pipes output to 'more'
+rm -rf _directory_  # remove a directory without the prompt
+aafire          # makes a fire
+cmatrix         # ooooh the matrix
+toilet _words_here  # output of the arguments in a cool way
+cowsay _words_here  # a cow that says the input words
+cowthink _words_here    # a cow that thinks the input words
+ctrl+alt+arrow_key      # switch between workspaces
